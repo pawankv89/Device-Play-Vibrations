@@ -4,8 +4,6 @@
 
 ## Device Play Vibrations in Swift 5.
 
-### In this demo show UIViewController Extension.
-
 ------------
 Added Some screens here.
 
